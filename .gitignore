@@ -1,0 +1,16 @@
+# Environment
+.env
+
+# Vector store (rebuilt from docs/ on first run)
+.chroma/
+
+# DeepEval local artifacts
+.deepeval/
+.deepeval-cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/

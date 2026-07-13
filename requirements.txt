@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+python-dotenv
+google-generativeai
+ollama
+deepeval
