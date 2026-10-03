@@ -5,6 +5,10 @@ demonstrate the discipline of **LLM evaluation** — measuring the quality of a
 non-deterministic, LLM-based system with the same rigor a QA engineer brings to
 deterministic software.
 
+**→ See [RESULTS.md](./RESULTS.md) for an actual run of this pipeline**, including
+a real bug found in the test suite and an explicit caveat about the conditions
+under which it ran.
+
 ## Why this exists
 
 Traditional test automation asserts exact outputs: a value either equals the
